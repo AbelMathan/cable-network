@@ -1,0 +1,151 @@
+body{
+   background-color: #3C4048;
+}
+nav{
+    position: relative;
+    padding: 2px;
+    width: 100%;
+    /* border-bottom: solid 3px #DA0037; */
+}
+ol{
+ margin-left:55%;
+}
+ol,li{
+    
+    color:#ededed;
+    text-decoration: none;
+    list-style: none;
+    font-size:20px ;
+    font-weight: bold;
+    display: inline-block;
+    text-align: right;
+    margin-right:80px ;
+    margin-top: 22px;
+}
+#logo{
+    position:absolute;
+    width: 90px;
+    top:4px ;
+    left: 295px;
+}
+#logoN,p{
+    position:absolute;
+    width: 75px;
+    top:32px ;
+    margin-left:240px; 
+    color: #EDEDED ;
+    font-weight: bold;
+    font-size: 18px;
+}
+img.bg1{
+    position:absolute;
+    bottom: 1px;
+    right: 1px;
+    width: 100%;
+    mix-blend-mode: screen;
+    opacity: 75%;
+}
+.brand{
+    position: absolute;
+    top: 32%;
+    left: 15%;
+}
+h6{
+    position: absolute;
+    color:#B2B2B2;
+    font-size: 25px;
+    top: 0px;
+    left: 6px;
+}
+h4{
+    position: absolute;
+    color:#EAEAEA;
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 15px;
+    bottom: 18%;
+    left: 25px;
+}
+h1{
+   color: #00ABB3;
+   font-weight: bolder;
+   font-size: 90px;    
+   font-family:  'Black Han Sans', sans-serif;
+}
+.main-pattern{
+    width: 90%;
+    margin-left: 7.5%;
+    margin-top: -7%;
+    opacity: 100%;
+    mix-blend-mode: overlay;
+}
+.main-img{
+    position: absolute;
+    width: 40%;
+    right: 3%;
+    top: 27%;
+}
+/* Article 1 end */
+.a2{
+    position: absolute;
+    top: 100%;
+}
+.bg2{
+    width: 100%;
+    position:relative;
+    right: 4px;
+}
+.bg2-color{
+    position: relative;
+    background-color: white;
+    width: 500px;
+    height: auto;
+}
+.cont{
+    position: absolute;
+    top: 200%;
+    width: 50%;
+}
+.bgwhite{
+    position: absolute;
+    background-color: white;
+    left: 10%;
+    bottom: -90%;
+    width: 80%;
+    height: 80%;
+    opacity: 30%;
+}
+.categories{
+    position: relative;
+    color:#3C4048;
+    font-size: 40px;
+    top: 80px;
+}
+.categories-option{
+   text-align: center;
+   margin-top: 80px;
+}
+.categories-inside{
+    position: relative;
+    width:320px;
+    height: 380px;
+    background-color:rgba(255, 255, 255,0.7);
+    padding: 0px;
+    border-top-right-radius: 25px;
+    /* box-shadow: 0px 0px 50px black; */
+}
+.c-img{
+    position: relative;
+    width:300px;
+    border-bottom-left-radius: 250px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.c-font{
+    position: relative;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    margin-top: -20%;
+    right:70%;
+}
